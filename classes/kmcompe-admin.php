@@ -8,7 +8,7 @@
  */
 class KMadmin {
 
-	protected $options;
+	public $options;
 
 	/**
 	 * Post_Notifier constructor.
